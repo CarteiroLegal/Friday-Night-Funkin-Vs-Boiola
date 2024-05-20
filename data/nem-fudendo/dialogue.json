@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "dialog_iola",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "UAU E O BOYFRIEND DO FAMOSO JOGO FRIDAY NIGHT FUNKIN"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialog_iola",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "valeu a pena sair de casa depois de tudo, pelo visto a WWII ja acabou"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep boop vadia"
+		}
+	]
+}

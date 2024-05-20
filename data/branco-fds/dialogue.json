@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Uau boyfriend! foi bem legal a nossa batalha de rap :)",
+			"boxState": "normal",
+			"portrait": "dialog_iola",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "NAO CALMA, O QUE VOCE ESTA FAZENDO?! ?!?!?!?!!?!??!!?!?!?!?!?!?!?!?!?!?!!?!?!?!?!?",
+			"boxState": "angry",
+			"portrait": "dialog_iola",
+			"speed": 0.005,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "skibidi dop dop dop yes yes",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "vadia",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "SOU EU, BOIOLA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "dialog_boiola"
+		},
+		{
+			"expression": "talk",
+			"text": "SEU MAIOR PESADELO",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "dialog_boiola"
+		},
+		{
+			"expression": "talk",
+			"text": "HAHAHAHAHAHAHAHAHAAHAHAHAHAHAHHAHA HAJAHAHHAAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAH",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "dialog_boiola"
+		},
+		{
+			"expression": "confused",
+			"text": "uau isso e muito skibidi",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "tinha que ser a SIGMA DE PHILADELPHIA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialog_boiola"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dialog_boiola",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pera, pq caralhos uma caixa branca esta vindo em nossa direcao?????"
+		}
+	]
+}
